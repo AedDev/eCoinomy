@@ -2,7 +2,7 @@ name: eCoinomy
 version: 1.0.0
 description: Scalable economy plugin for bukkit based servers
 author: Morph <admin@mds-tv.de>
-main: de.mdstv.spigot.ecoinomy.Ecoinomy
+main: de.mdstv.bukkit.ecoinomy.Ecoinomy
 
 commands:
   ec:

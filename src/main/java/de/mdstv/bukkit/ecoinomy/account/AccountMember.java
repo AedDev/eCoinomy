@@ -1,6 +1,6 @@
-package de.mdstv.spigot.ecoinomy.account;
+package de.mdstv.bukkit.ecoinomy.account;
 
-import de.mdstv.spigot.ecoinomy.Ecoinomy;
+import de.mdstv.bukkit.ecoinomy.Ecoinomy;
 import java.io.Serializable;
 import org.bukkit.OfflinePlayer;
 

@@ -1,4 +1,4 @@
-package de.mdstv.spigot.ecoinomy.account;
+package de.mdstv.bukkit.ecoinomy.account;
 
 import java.io.Serializable;
 import java.util.ArrayList;

@@ -1,8 +1,8 @@
-package de.mdstv.spigot.ecoinomy.commands;
+package de.mdstv.bukkit.ecoinomy.commands;
 
-import de.mdstv.spigot.ecoinomy.Ecoinomy;
-import de.mdstv.spigot.ecoinomy.account.Account;
-import de.mdstv.spigot.ecoinomy.account.AccountMember;
+import de.mdstv.bukkit.ecoinomy.Ecoinomy;
+import de.mdstv.bukkit.ecoinomy.account.Account;
+import de.mdstv.bukkit.ecoinomy.account.AccountMember;
 import java.util.ArrayList;
 import java.util.Arrays;
 import org.bukkit.ChatColor;

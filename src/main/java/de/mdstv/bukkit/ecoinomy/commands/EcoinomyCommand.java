@@ -1,4 +1,4 @@
-package de.mdstv.spigot.ecoinomy.commands;
+package de.mdstv.bukkit.ecoinomy.commands;
 
 import java.util.ArrayList;
 import java.util.Arrays;

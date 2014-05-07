@@ -1,8 +1,8 @@
-package de.mdstv.spigot.ecoinomy;
+package de.mdstv.bukkit.ecoinomy;
 
-import de.mdstv.spigot.ecoinomy.account.Account;
-import de.mdstv.spigot.ecoinomy.commands.AccountingCommand;
-import de.mdstv.spigot.ecoinomy.commands.EcoinomyCommand;
+import de.mdstv.bukkit.ecoinomy.account.Account;
+import de.mdstv.bukkit.ecoinomy.commands.AccountingCommand;
+import de.mdstv.bukkit.ecoinomy.commands.EcoinomyCommand;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

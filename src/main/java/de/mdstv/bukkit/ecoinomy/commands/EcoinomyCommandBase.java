@@ -1,4 +1,4 @@
-package de.mdstv.spigot.ecoinomy.commands;
+package de.mdstv.bukkit.ecoinomy.commands;
 
 import org.bukkit.command.CommandExecutor;
 
